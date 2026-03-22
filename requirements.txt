@@ -1,0 +1,9 @@
+sentence-transformers
+chromadb
+langchain
+langchain-groq
+streamlit
+pandas
+requests
+python-dotenv
+pydantic
