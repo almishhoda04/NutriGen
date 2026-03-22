@@ -1,20 +1,8 @@
-# Virtual environment
-venv/
-
-# Secrets
-.env
-
-# Data (large files)
-data/chroma_db/
-data/*.json
-
-# Python
-__pycache__/
-*.pyc
-
-# Streamlit secrets
-.streamlit/secrets.toml
-
-# OS
-.DS_Store
-Thumbs.db
+venv/ 
+.env 
+data/chroma_db/ 
+__pycache__/ 
+*.pyc 
+.DS_Store 
+notebooks/ 
+test_setup.py

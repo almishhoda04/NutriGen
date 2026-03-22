@@ -4,6 +4,10 @@ import streamlit as st
 import json
 import sys
 import os
+import os
+if not os.path.exists("data/chroma_db"):
+    from src.knowledge_base import build_knowledge_base
+    build_knowledge_base()
 
 sys.path.insert(0, os.path.abspath("."))
 

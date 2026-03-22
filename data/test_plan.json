@@ -1,0 +1,121 @@
+{
+  "day_1": {
+    "breakfast": {
+      "recipe": "Indian-Style Dill and Turmeric Potato Salad",
+      "calories": 416,
+      "note": "High calorie breakfast to start the day"
+    },
+    "lunch": {
+      "recipe": "Vegetable & Cornmeal Fritters",
+      "calories": 119,
+      "note": "Low calorie lunch to balance the day"
+    },
+    "dinner": {
+      "recipe": "Easy Tomato Basil Chicken \u2013 One Pot Meal",
+      "calories": 431,
+      "note": "Protein rich dinner for muscle repair"
+    }
+  },
+  "day_2": {
+    "breakfast": {
+      "recipe": "Vegetable & Cornmeal Fritters",
+      "calories": 119,
+      "note": "Light breakfast for easy digestion"
+    },
+    "lunch": {
+      "recipe": "Indian-Style Dill and Turmeric Potato Salad",
+      "calories": 416,
+      "note": "Filling lunch for energy boost"
+    },
+    "dinner": {
+      "recipe": "Indian-Style Dill and Turmeric Potato Salad",
+      "calories": 416,
+      "note": "Balanced dinner for weight management"
+    }
+  },
+  "day_3": {
+    "breakfast": {
+      "recipe": "Indian-Style Dill and Turmeric Potato Salad",
+      "calories": 416,
+      "note": "Nutrient dense breakfast for diabetes management"
+    },
+    "lunch": {
+      "recipe": "Vegetable & Cornmeal Fritters",
+      "calories": 119,
+      "note": "Low calorie lunch for weight loss"
+    },
+    "dinner": {
+      "recipe": "Easy Tomato Basil Chicken \u2013 One Pot Meal",
+      "calories": 431,
+      "note": "Protein rich dinner for satiety"
+    }
+  },
+  "day_4": {
+    "breakfast": {
+      "recipe": "Vegetable & Cornmeal Fritters",
+      "calories": 119,
+      "note": "Easy to digest breakfast for a busy day"
+    },
+    "lunch": {
+      "recipe": "Indian-Style Dill and Turmeric Potato Salad",
+      "calories": 416,
+      "note": "Filling lunch for energy"
+    },
+    "dinner": {
+      "recipe": "Indian-Style Dill and Turmeric Potato Salad",
+      "calories": 416,
+      "note": "Balanced dinner for overall health"
+    }
+  },
+  "day_5": {
+    "breakfast": {
+      "recipe": "Indian-Style Dill and Turmeric Potato Salad",
+      "calories": 416,
+      "note": "Wholesome breakfast for a healthy start"
+    },
+    "lunch": {
+      "recipe": "Vegetable & Cornmeal Fritters",
+      "calories": 119,
+      "note": "Low calorie lunch for weight management"
+    },
+    "dinner": {
+      "recipe": "Easy Tomato Basil Chicken \u2013 One Pot Meal",
+      "calories": 431,
+      "note": "Nutritious dinner for overall well-being"
+    }
+  },
+  "day_6": {
+    "breakfast": {
+      "recipe": "Vegetable & Cornmeal Fritters",
+      "calories": 119,
+      "note": "Light and easy breakfast"
+    },
+    "lunch": {
+      "recipe": "Indian-Style Dill and Turmeric Potato Salad",
+      "calories": 416,
+      "note": "Filling and nutritious lunch"
+    },
+    "dinner": {
+      "recipe": "Indian-Style Dill and Turmeric Potato Salad",
+      "calories": 416,
+      "note": "Balanced dinner for a healthy evening"
+    }
+  },
+  "day_7": {
+    "breakfast": {
+      "recipe": "Indian-Style Dill and Turmeric Potato Salad",
+      "calories": 416,
+      "note": "Delicious and healthy breakfast"
+    },
+    "lunch": {
+      "recipe": "Vegetable & Cornmeal Fritters",
+      "calories": 119,
+      "note": "Low calorie lunch for a healthy day"
+    },
+    "dinner": {
+      "recipe": "Easy Tomato Basil Chicken \u2013 One Pot Meal",
+      "calories": 431,
+      "note": "Nutritious and satisfying dinner"
+    }
+  }
+}
